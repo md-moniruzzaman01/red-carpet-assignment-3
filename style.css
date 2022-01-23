@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;700&family=Manrope:wght@500&family=Poppins:wght@300;400;500;600;700&family=Roboto:wght@700&display=swap');
+
+:root{
+    --Inter: 'Inter', sans-serif;
+    --Manrope: 'Manrope', sans-serif;
+    --Poppins: 'Poppins', sans-serif;
+    --Roboto: 'Roboto', sans-serif;
+}
+ /* ///////////////////custom font class ////////////////// */
+.font-inter{
+    font-family: var(--Inter);
+}
+.font-monrope{
+    font-family: var(--Manrope);
+}
+.font-poppins{
+    font-family: var(--Poppins);
+}
+.font-roboto{
+    font-family: var(--Roboto);
+}
+/* /////////////////custom font width///////////  */
+.font-width-300{
+  font-weight: 300;
+}
+.font-width-400{
+  font-weight: 400;
+}
+.font-width-500{
+  font-weight: 500;
+}
+.font-width-600{
+  font-weight: 600;
+}
+.font-width-700{
+  font-weight: 700;
+}
+
+/* /////////////////css style apply here  ////////////////*/
+
+body{
+    font-family: var(--Poppins);
+}
+.carousel-hight{
+    height: 584px;
+}
