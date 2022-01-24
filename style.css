@@ -43,20 +43,9 @@ body{
 .carousel-hight{
     height: 584px;
 }
- /* /////////////////toest section////////////////////// */
-.toester-box{
-position: absolute;
- width: 250px;
- height: 60px;
- bottom: -50px;
- right: 20px;
- border-left: 5px solid blue;
- background-color: white;
+.customize-toest{
+  border-left: 3px solid blue;
 
-
-}
-.tost{
-  position: relative;
 }
 
 .close-btn{
@@ -145,4 +134,17 @@ footer{
 
     order: 2;
   }
+  .toester-box{
+  
+     
+    
+     bottom: 0px;
+     right: 20px;
+    
+   
+    
+    
+    }
+
 }
+
