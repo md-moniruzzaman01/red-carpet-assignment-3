@@ -64,6 +64,27 @@ position: absolute;
   float: right;
 }
 
+
+/*////////////////////// bonous section ||  adress section ////////////////*/
+
+.loactions strong{
+  font-size: 1.3rem;
+ 
+}
+.loactions span{
+  font-size: 1.1rem;
+ 
+}
+
+
+
+
+
+
+
+
+
+
 /* ////////////////////////our package  section/////////////// */
 .box-container{
   height: 467px;
