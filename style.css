@@ -35,6 +35,7 @@
 
 body{
   font-family: 'Poppins', sans-serif;
+  overflow-x: hidden;
 }
 .carousel-hight{
     height: 584px;
@@ -145,7 +146,7 @@ footer{
 
 
 
-@media only screen and (max-width: 500px) {
+@media only screen and (max-width: 830px) {
   .custom-order{
 
     order: 2;
